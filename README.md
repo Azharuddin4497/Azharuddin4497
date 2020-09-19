@@ -6,8 +6,8 @@
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects.
 - 🤔 I’m looking for help with Natural Language Processing.
 - 💬 Ask me about any Supervised Learning project.
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I want to be the Sherlock Holmes in the field of Data:stuck_out_tongue_winking_eye:.
+- :email: azharuddin.luhar4497@gmail.com
 
 ## Get in touch
 - [Linkedin](https://www.linkedin.com/in/azharuddinluhar441997)
