@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Business Intelligence using Power BI and MS SQL Server
 - 👯 I’m looking to collaborate on Data Analysis and Power BI related stuffs.
 - 🤔 I’m looking for the help with anything related to my above stuff.
-- 💬 Ask me about any Data Analysis in python and Power BI.
+- 💬 Ask me about Data Analysis in Python and Power BI.
 - ⚡ Fun fact: I want to be the Sherlock Holmes in the field of Data:stuck_out_tongue_winking_eye:.
 - :email: Email: azharuddin.luhar4497@gmail.com
 
